@@ -1,4 +1,5 @@
 {
     "waybill": "12345",
-    "status": "about to reach to client"
+    "status": "about to reach to client",
+    "date": "11212112"
 }
